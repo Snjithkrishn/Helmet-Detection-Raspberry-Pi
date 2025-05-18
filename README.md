@@ -83,7 +83,7 @@ To exit:
 
 ---
 
-## 🧪 Inference Output (Terminal Example)
+## Inference Output (Terminal Example)
 
 ```text
 Detected: No Helmet (255.00)
